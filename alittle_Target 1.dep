@@ -1,3 +1,0 @@
-Dependencies for Project 'alittle', Target 'Target 1': (DO NOT MODIFY !)
-F (.\startup_stm32f429_439xx.s)(0x559CE084)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\ST\STM32F4xx--list .\startup_stm32f429_439xx.lst --xref -o .\startup_stm32f429_439xx.o --depend .\startup_stm32f429_439xx.d)
-F (.\main.c)(0x59C0446A)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\ST\STM32F4xx-DSTM32F429_439xx-o .\main.o --omf_browse .\main.crf --depend .\main.d)
